@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2015 02:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2015 19:35:21 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2015 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[commandz updated to version 0.1.1]]></title>
+            <description><![CDATA[⌘Z undo and redo commands. Add commands history support to your web app.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/commandz/0.1.1/commandz.min.js">https://cdnjs.cloudflare.com/ajax/libs/commandz/0.1.1/commandz.min.js</a>]]></description>
+            <link>https://github.com/EtienneLem/commandz</link>
+            <guid isPermaLink="false">commandz0.1.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2015 06:40:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[canvasjs updated to version 1.7.0]]></title>
             <description><![CDATA[CanvasJS is an easy to use HTML5 & JavaScript Charting library built on Canvas element.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/canvasjs.min.js">https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/canvasjs.min.js</a>]]></description>
@@ -3200,46 +3208,6 @@
             <guid isPermaLink="false">webcomponentsjs0.7.5</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 18 Jun 2015 05:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[basis.js updated to version 1.4.0]]></title>
-            <description><![CDATA[Basis.js framework as library. Basis.js – JavaScript framework to build single-page applications.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/basis.js/1.4.0/basis.min.js">https://cdnjs.cloudflare.com/ajax/libs/basis.js/1.4.0/basis.min.js</a>]]></description>
-            <link>http://basisjs.com/</link>
-            <guid isPermaLink="false">basis.js1.4.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2015 08:59:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bootstrap-social updated to version 4.9.1]]></title>
-            <description><![CDATA[Social Buttons for Bootstrap<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/4.9.1/bootstrap-social.min.css">https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/4.9.1/bootstrap-social.min.css</a>]]></description>
-            <link>http://lipis.github.io/bootstrap-social/</link>
-            <guid isPermaLink="false">bootstrap-social4.9.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2015 08:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[es-class updated to version 1.2.3]]></title>
-            <description><![CDATA[A future proof, backward compatible, JavaScript class utility.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/es-class/1.2.3/es-class.js">https://cdnjs.cloudflare.com/ajax/libs/es-class/1.2.3/es-class.js</a>]]></description>
-            <link>https://github.com/WebReflection/es-class</link>
-            <guid isPermaLink="false">es-class1.2.3</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2015 08:56:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[quill updated to version 0.19.14]]></title>
-            <description><![CDATA[Cross browser rich text editor<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/quill/0.19.14/quill.base.min.css">https://cdnjs.cloudflare.com/ajax/libs/quill/0.19.14/quill.base.min.css</a>]]></description>
-            <link>http://quilljs.com</link>
-            <guid isPermaLink="false">quill0.19.14</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2015 08:55:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[vis updated to version 4.3.0]]></title>
-            <description><![CDATA[A dynamic, browser-based visualization library.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.3.0/vis.min.js">https://cdnjs.cloudflare.com/ajax/libs/vis/4.3.0/vis.min.js</a>]]></description>
-            <link>http://visjs.org/</link>
-            <guid isPermaLink="false">vis4.3.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2015 08:54:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
